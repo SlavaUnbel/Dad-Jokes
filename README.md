@@ -1,6 +1,6 @@
 # Dad-Jokes
 
-Training project #10
+Training project #8
 
 There are three steps to configure this app.
 
